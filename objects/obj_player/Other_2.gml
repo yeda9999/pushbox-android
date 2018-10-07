@@ -1,0 +1,1 @@
+game_load("Save.dat");
